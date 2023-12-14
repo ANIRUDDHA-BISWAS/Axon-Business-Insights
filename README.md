@@ -20,3 +20,13 @@ Axon Business Insights is a dynamic Business Intelligence (BI) dashboard project
 
 - **SQL**
 - **Power BI**
+
+## Acknowledgments
+
+I would like to express my sincere gratitude to the Odin School for their invaluable guidance and education in the field of data science. This capstone project, provided by the Odin School, has been a crucial part of my learning journey, allowing me to apply and enhance my skills in a practical, real-world context.
+
+
+## Links
+
+- Odin School: [Odin School](https://www.odinschool.com/)
+- My LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/aniruddha-biswas/)
