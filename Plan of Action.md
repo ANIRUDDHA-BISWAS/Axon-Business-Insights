@@ -1,48 +1,236 @@
 ## Key Performance Indicators (KPIs) for Axon:
 
-- **Sales Revenue:** Total sales revenue over time (monthly, quarterly, yearly). This KPI is fundamental for tracking the company's financial health.
-
-- **Average Order Value (AOV):** Measures the average amount spent each time a customer places an order. AOV is crucial for understanding purchasing behavior.
-
-- **Customer Lifetime Value (CLV):** Estimates the total value a customer is expected to spend over their lifetime. CLV helps in understanding the long-term value of customer relationships.
-
-- **Conversion Rate:** The percentage of visitors to the website or store who make a purchase. This is key for assessing the effectiveness of sales and marketing strategies.
-
-- **Inventory Turnover:** Measures how often inventory is sold and replaced over a period. This helps in efficient inventory management.
-
-- **Gross Margin:** The difference between revenue and cost of goods sold. It's important for understanding the profitability of products.
-
-- **Customer Acquisition Cost (CAC):** The total cost of acquiring a new customer. This includes marketing and advertising expenses.
-
-- **Product Performance:** Sales performance of different car models and product lines, identifying top-selling and underperforming products.
-
-- **Regional Sales Performance:** Analysis of sales data based on geographical regions.
-
-- **Employee Performance:** Sales performance of employees, identifying top performers and areas for improvement.
+1. **Sales Revenue:** Total sales revenue over time (monthly, quarterly, yearly). This KPI is fundamental for tracking the company's financial health.
+2. **Average Order Value (AOV):** Measures the average amount spent each time a customer places an order. AOV is crucial for understanding purchasing behavior.
+3. **Customer Lifetime Value (CLV):** Estimates the total value a customer is expected to spend over their lifetime. CLV helps in understanding the long-term value of customer relationships.
+4. **Conversion Rate:** The percentage of visitors to the website or store who make a purchase. This is key for assessing the effectiveness of sales and marketing strategies.
+5. **Inventory Turnover:** Measures how often inventory is sold and replaced over a period. This helps in efficient inventory management.
+6. **Gross Margin:** The difference between revenue and cost of goods sold. It's important for understanding the profitability of products.
+7. **Customer Acquisition Cost (CAC):** The total cost of acquiring a new customer. This includes marketing and advertising expenses.
+8. **Product Performance:** Sales performance of different car models and product lines, identifying top-selling and underperforming products.
+9. **Regional Sales Performance:** Analysis of sales data based on geographical regions.
+10. **Employee Performance:** Sales performance of employees, identifying top performers and areas for improvement.
 
 ## Analytical Questions to Explore:
 
-1. Which car models are the best-sellers and why?
+1. **Which car models are the best-sellers and why?**  
+   Understand trends in customer preferences and potentially adjust inventory accordingly.
+2. **What are the buying patterns of repeat customers?**  
+   Identify opportunities for targeted marketing and loyalty programs.
+3. **Which marketing channels are most effective in driving sales?**  
+   Allocate marketing budget more effectively.
+4. **How do seasonal trends affect sales?**  
+   Plan for inventory and marketing strategies according to seasonal variations.
+5. **Are there any correlations between sales and external factors like economic indicators?**  
+   Understand external influences on sales performance.
+6. **What are the common characteristics of top-spending customers?**  
+   Tailor marketing strategies to attract similar customer profiles.
+7. **How does employee performance correlate with sales outcomes?**  
+   Develop training and incentive programs to boost sales team performance.
+8. **What is the impact of promotional activities on sales?**  
+   Assess the effectiveness of various promotions and discounts.
+9. **How efficient is the order fulfillment and delivery process?**  
+   Identify areas for improvement in logistics and customer satisfaction.
+10. **What are the payment patterns and how do they impact cash flow?**  
+    Manage finances more effectively by understanding payment behaviors.
 
-Understand trends in customer preferences and potentially adjust inventory accordingly.
-What are the buying patterns of repeat customers?
 
-Identify opportunities for targeted marketing and loyalty programs.
-Which marketing channels are most effective in driving sales?
+### 1. Key Performance Indicators (KPIs):
+Your dashboard should include the following KPIs based on the previous discussions and data analysis:
 
-Allocate marketing budget more effectively.
-How do seasonal trends affect sales?
+- **Total Sales Revenue:** Total revenue generated from sales.
+- **Average Order Value (AOV):** Average amount spent on each order.
+- **Quarterly Sales Growth:** Percentage growth in sales each quarter.
+- **Best-Selling Products:** Top products based on sales revenue.
+- **Customer Lifetime Value (CLV):** Average total revenue generated by a customer over their lifetime.
+- **Inventory Turnover Rate:** Frequency of inventory being sold and replaced.
+- **Repeat Customer Rate:** Percentage of customers who have made more than one purchase.
+- **Gross Margin:** Total sales revenue minus the cost of goods sold.
+- **Employee Sales Performance:** Sales figures associated with each sales representative.
 
-Plan for inventory and marketing strategies according to seasonal variations.
-Are there any correlations between sales and external factors like economic indicators?
+### 2. Number of Pages:
+The complexity and amount of information determine the number of pages. For clarity and ease of use, consider the following structure:
 
-Understand external influences on sales performance.
-What are the common characteristics of top-spending customers?
+- **Page 1 - Overview:** Key metrics like Total Sales Revenue, AOV, Quarterly Growth.
+- **Page 2 - Sales Analysis:** Detailed sales data, best-selling products, seasonal trends.
+- **Page 3 - Customer Insights:** CLV, repeat customer rate, top spender analysis.
+- **Page 4 - Inventory and Supply Chain:** Inventory turnover, stock levels of various products.
+- **Page 5 - Employee Performance:** Sales by employee, performance over time.
 
-Tailor marketing strategies to attract similar customer profiles.
-How does employee performance correlate with sales outcomes?
+### 3. Charts and Graphs:
+Select charts and graphs that best represent each KPI and data type:
 
-Develop training and incentive programs to boost sales team performance.
-What is the impact of promotional activities on sales?
+- **Total Sales Revenue:** Line or bar chart showing revenue over time.
+- **AOV:** Bar chart comparing AOV across different time periods or customer segments.
+- **Quarterly Sales Growth:** Line chart with percentage growth per quarter.
+- **Best-Selling Products:** Bar chart or a pie chart showing the sales distribution among products.
+- **Customer Lifetime Value:** Histogram or bar chart.
+- **Inventory Turnover Rate:** Line chart showing turnover rate over time.
+- **Repeat Customer Rate:** Donut chart or bar chart.
+- **Gross Margin:** Bar chart comparing revenue vs. costs.
+- **Employee Sales Performance:** Ranked bar chart.
 
-Assess the effectiveness of various promotions and discounts.
+### 4. Additional Dashboard Elements:
+- **Filters:** Allow users to filter data by time period, region, product line, etc.
+- **Drill-Downs:** Enable users to click on certain elements (like a bar in a bar chart) to see more detailed data.
+- **Tables:** For detailed data review, include tables with sortable columns.
+- **Interactive Elements:** Tooltips or hover-over effects to show more information.
+
+### 5. Design Principles:
+- **Clarity:** Ensure the dashboard is easy to read and understand.
+- **Consistency:** Use consistent color schemes and design elements.
+- **Relevance:** Only include data and visuals that provide meaningful insights.
+
+
+
+### Page 1: Overview Dashboard
+**Objective:** Provide a high-level view of overall business health.
+
+- **KPIs:**
+  - Total Sales Revenue
+  - Quarterly Sales Growth
+  - Average Order Value (AOV)
+  - Inventory Turnover Rate
+- **Charts/Graphs:**
+  - Line chart for Sales Revenue over time
+  - Bar chart showing Quarterly Sales Growth
+  - KPI cards for AOV and Inventory Turnover Rate
+- **Design:**
+  - Clean layout with KPI cards at the top
+  - Graphs below KPIs for trend visualization
+  - Use a consistent color scheme for easy comparison
+
+### Page 2: Sales Analysis
+**Objective:** Deep dive into sales data.
+
+- **KPIs:**
+  - Best-Selling Products
+  - Sales by Product Line
+  - Monthly Sales Trends
+- **Charts/Graphs:**
+  - Bar chart for Best-Selling Products
+  - Pie chart for Sales Distribution by Product Line
+  - Line chart for Monthly Sales Trends
+- **Filters/Drill-Downs:**
+  - Time Period (Month, Quarter, Year)
+  - Product Line
+- **Design:**
+  - Interactive filters for timeframe and product line
+  - Graphs to show product performance and monthly trends
+
+### Page 3: Customer Insights
+**Objective:** Understand customer behavior and segment performance.
+
+- **KPIs:**
+  - Customer Lifetime Value (CLV)
+  - Repeat Customer Rate
+  - Top Spenders
+- **Charts/Graphs:**
+  - Histogram for CLV distribution
+  - Donut chart for Repeat Customer Rate
+  - Table listing Top Spenders
+- **Filters/Drill-Downs:**
+  - Customer Segment
+  - Geographical Region
+- **Design:**
+  - Emphasize on customer segments
+  - Interactive elements to explore different customer groups
+
+### Page 4: Inventory and Supply Chain
+**Objective:** Monitor inventory management.
+
+- **KPIs:**
+  - Stock Levels by Product
+  - Products Needing Reorder
+  - Inventory Age
+- **Charts/Graphs:**
+  - Bar chart for Stock Levels by Product
+  - List/Table for Products Needing Reorder
+  - Heat map for Inventory Age
+- **Design:**
+  - Clear visual indicators for stock levels (e.g., color-coded)
+  - Easy-to-read tables for reorder levels
+
+### Page 5: Employee Performance
+**Objective:** Analyze sales team performance.
+
+- **KPIs:**
+  - Sales by Employee
+  - Average Order Value by Employee
+  - New Client Acquisitions by Employee
+- **Charts/Graphs:**
+  - Bar chart for Sales by Employee
+  - Scatter plot for AOV by Employee
+  - Bar chart for New Client Acquisitions
+- **Filters/Drill-Downs:**
+  - Time Period
+  - Employee
+- **Design:**
+  - Leaderboard style ranking for sales
+  - Interactive charts to explore individual performance
+
+
+
+### Page 1: Overview Dashboard
+- **Top Section:** 
+  - Four KPI cards horizontally aligned at the top, displaying Total Sales Revenue, Quarterly Sales Growth, AOV, and Inventory Turnover Rate. Each card should have the KPI name and the value prominently displayed.
+- **Middle Section:** 
+  - A full-width line chart beneath the KPI cards showing Sales Revenue over time. Include options to adjust the time frame (e.g., monthly, quarterly, yearly).
+- **Bottom Section:** 
+  - A bar chart displaying Quarterly Sales Growth next to the line chart. 
+- **Design Notes:** 
+  - Maintain a clean and minimalistic design with a consistent color palette. Use contrasting colors for KPI cards for easy reading.
+
+### Page 2: Sales Analysis
+- **Top Section:** 
+  - Interactive filters for time period and product line on the top.
+- **Left Section:** 
+  - A vertical bar chart showing Best-Selling Products. Enable drill-downs for more detailed product information.
+- **Right Section:** 
+  - A pie chart for Sales Distribution by Product Line.
+- **Bottom Section:** 
+  - A line chart showing Monthly Sales Trends.
+- **Design Notes:** 
+  - Utilize hover-over tooltips for additional information on the charts.
+
+### Page 3: Customer Insights
+- **Top Section:** 
+  - Filters for customer segment and geographical region.
+- **Left Section:** 
+  - A histogram for Customer Lifetime Value (CLV) distribution.
+- **Middle Section:** 
+  - A donut chart for Repeat Customer Rate.
+- **Right Section:** 
+  - A table listing Top Spenders with details like customer name, total spend, and number of orders.
+- **Design Notes:** 
+  - Use colors to differentiate customer segments.
+
+### Page 4: Inventory and Supply Chain
+- **Top Section:** 
+  - KPI cards for key inventory metrics.
+- **Left Section:** 
+  - A bar chart displaying Stock Levels by Product.
+- **Right Section:** 
+  - A list or table for Products Needing Reorder.
+- **Bottom Section:** 
+  - A heat map for Inventory Age, showing how long items have been in stock.
+- **Design Notes:** 
+  - Implement color-coding (e.g., red for low stock) for immediate visual cues.
+
+### Page 5: Employee Performance
+- **Top Section:** 
+  - Time period filter.
+- **Left Section:** 
+  - A bar chart ranking employees by Sales.
+- **Middle Section:** 
+  - A scatter plot showing Average Order Value by Employee.
+- **Right Section:** 
+  - A bar chart or table for New Client Acquisitions by each employee.
+- **Design Notes:** 
+  - Ensure clear labeling for easy identification of employee names and performance metrics.
+
+### General Layout Tips:
+- Ensure there's enough white space for a non-cluttered look.
+- Align elements grid-wise for a structured layout.
+- Use consistent fonts and sizes across all pages.
+
